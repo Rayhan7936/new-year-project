@@ -59,6 +59,8 @@
 }
 
 .previous-year {
+    font-family: 'Work Sans';
+    font-style: normal;
     margin-top: 200px;
     margin-left: 80px;
 }
@@ -88,6 +90,7 @@
 .plan-header {
     text-align: center;
     font-size: 30px;
+    font-family: work sans;
 }
 
 .plan-set {
@@ -143,7 +146,72 @@
 /* footer end section */
 
 .end-section {
+    background-color: black;
+    height: 250px;
     display: flex;
+    color: white;
+    padding: 80px 60px;
+    padding-left: 150px;
 }
 
-.image-set {}
+.Future {
+    font-family: 'work sans';
+    margin-bottom: 5px;
+}
+
+.future-description {
+    padding-right: 700px;
+    margin-bottom: 15px;
+    font-family: work sans;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.email-address {
+    margin-bottom: 15px;
+}
+
+.phone-number {
+    margin-bottom: 20px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.subscribe {
+    margin-left: 80px;
+    padding-top: 60px;
+}
+
+.sub {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.e-mail {
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    padding: 10px 15px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.btn-subs {
+    font-size: 15px;
+    margin-top: 10px;
+    padding: 12px 18px;
+    color: orange;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
