@@ -96,3 +96,45 @@
     margin-left: 350px;
     margin-top: 50px;
 }
+
+
+/* positve mind setup */
+
+.positive-mindset-bar {
+    background-image: url("../images/gradient3.png"), url("../images/watch.png");
+    background-blend-mode: lighten;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 300px;
+    margin-right: 350px;
+    margin-bottom: 50px;
+    margin-top: 60px;
+    height: 250px;
+    width: 850px;
+    border: radius 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.positive-mindset {
+    font-size: 30px;
+    padding: 60px;
+    padding-left: 80px;
+    padding-right: 200px;
+    color: white;
+    font-family: work sans-serif;
+}
+
+.btn-call {
+    margin-top: 10px;
+    padding: 15px 25px 15px 25px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #F15B22;
+}
