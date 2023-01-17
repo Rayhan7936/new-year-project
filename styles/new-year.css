@@ -1,46 +1,48 @@
 * {
     margin: 0;
-    font-family: 'Open Sans', sans-serif
 }
 
 #header-content {
-    background-image: url("/images/banner/banner2.png");
+    background-image: url(../images/banner/banner2.png);
     background-repeat: no-repeat;
+    background-position: right;
     background-size: cover;
-    height: 1000px;
 }
 
 .header-title {
     font-size: 80px;
-    padding-left: 1200px;
-    padding-right: 250px;
-    padding-top: 200px;
+    margin-left: 400px;
     font-family: sans-serif;
     text-align: right;
-}
-
-.believe {
-    padding-left: 270px;
+    padding-right: 200px;
+    padding-left: 300px;
+    padding-top: 180px;
+    padding-bottom: 10px;
 }
 
 .header-description {
-    padding-left: 1300px;
-    padding-right: 250px;
     text-align: right;
-    font-family: "Gill Sans", sans-serif;
+    padding-left: 900px;
+    padding-right: 200px;
+    font-size: 16px;
+    font-family: Work Sans;
+    font-weight: 400;
+    font-height: 26px;
+    padding-bottom: 15px;
 }
 
 .btn-regular {
-    margin-left: 1700px;
-    padding: 30px 40px 30px 40px;
+    margin-left: 1120px;
+    padding: 20px 15px 20px 15px;
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
     margin-top: 20px;
-    border-radius: 10px;
-    -webkit-border-radius: 10px;
-    -moz-border-radius: 10px;
-    -ms-border-radius: 10px;
-    -o-border-radius: 10px;
+    margin-bottom: 40px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
     color: white;
     background-color: orange;
     font-family: monospace;
@@ -69,7 +71,7 @@
 }
 
 .unoder-list {
-    margin-left: 20px;
+    margin-left: 10px;
     list-style-type: none;
     margin-top: 50px;
 }
