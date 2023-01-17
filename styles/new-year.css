@@ -33,7 +33,7 @@
 
 .btn-regular {
     margin-left: 1120px;
-    padding: 20px 15px 20px 15px;
+    padding: 15px 40px;
     text-align: center;
     font-size: 20px;
     margin-top: 20px;
@@ -46,13 +46,16 @@
     color: white;
     background-color: orange;
     font-family: monospace;
+    margin-bottom: 80px;
 }
+
+
+/* mid section style */
 
 .mid-section {
     display: flex;
     gap: 50px;
-    margin: 200px;
-    padding-left: 400px;
+    margin: 100px;
 }
 
 .previous-year {
@@ -71,11 +74,25 @@
 }
 
 .unoder-list {
-    margin-left: 10px;
     list-style-type: none;
-    margin-top: 50px;
+    margin-top: 20px;
 }
 
 .list {
     margin-bottom: 10px;
+}
+
+
+/* my-plans */
+
+.plan-header {
+    text-align: center;
+    font-size: 30px;
+}
+
+.plan-set {
+    display: flex;
+    gap: 100px;
+    margin-left: 350px;
+    margin-top: 50px;
 }
