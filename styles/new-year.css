@@ -138,3 +138,12 @@
     text-align: center;
     color: #F15B22;
 }
+
+
+/* footer end section */
+
+.end-section {
+    display: flex;
+}
+
+.image-set {}
