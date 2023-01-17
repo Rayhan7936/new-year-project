@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif
+}
+
+#header-content {
+    background-image: url("/images/banner/banner2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 2200px;
+    height: 1200px;
+}
+
+.header-title {
+    font-size: 80px;
+    padding-left: 1200px;
+    padding-right: 250px;
+    padding-top: 200px;
+    font-family: sans-serif;
+    text-align: right;
+}
+
+.believe {
+    padding-left: 270px;
+}
+
+.header-description {
+    padding-left: 1300px;
+    padding-right: 250px;
+    text-align: right;
+    font-family: "Gill Sans", sans-serif;
+}
+
+.btn-regular {
+    margin-left: 1700px;
+    padding: 30px 40px 30px 40px;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 20px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    color: white;
+    background-color: orange;
+    font-family: monospace;
+}
+
+.mid-section {
+    display: flex;
+    gap: 50px;
+    margin: 200px;
+}
+
+.previous-year {
+    margin-top: 200px;
+    margin-left: 80px;
+}
+
+.previous-title {
+    font-size: 56px;
+    margin-right: 700px
+}
+
+.previous-sub-title {
+    margin: 30px 800px 10px 0px;
+    color: rgb(169, 162, 162);
+}
+
+.unoder-list {
+    margin-left: 20px;
+    list-style-type: none;
+}
+
+.list {
+    margin-bottom: 10px;
+}
