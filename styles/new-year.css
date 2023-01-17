@@ -7,7 +7,7 @@
     background-image: url("/images/banner/banner2.png");
     background-repeat: no-repeat;
     background-size: cover;
-    width: height:
+    height: 1000px;
 }
 
 .header-title {
@@ -50,6 +50,7 @@
     display: flex;
     gap: 50px;
     margin: 200px;
+    padding-left: 400px;
 }
 
 .previous-year {
@@ -59,17 +60,18 @@
 
 .previous-title {
     font-size: 56px;
-    margin-right: 700px
+    margin-right: 300px
 }
 
 .previous-sub-title {
-    margin: 30px 800px 10px 0px;
+    margin: 30px 300px 10px 0px;
     color: rgb(169, 162, 162);
 }
 
 .unoder-list {
     margin-left: 20px;
     list-style-type: none;
+    margin-top: 50px;
 }
 
 .list {
